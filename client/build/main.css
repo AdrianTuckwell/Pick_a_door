@@ -1,0 +1,23 @@
+img {
+    width: 150px;
+    height: 200px;
+    padding: 20px;
+}
+
+.johnny-img {
+  width: 300px;
+  height: 300px;
+  align-items: center;
+}
+
+.fluffy-bunny-img{
+  width: 300px;
+  height: 300px;
+  align-items: center;
+}
+
+.fast-car-img{
+  width: 300px;
+  height: 300px;
+  align-items: center;
+}
